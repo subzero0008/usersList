@@ -1,4 +1,7 @@
 # User Directory App
+## Live Project
+
+View the live project [here](https://userslistyuriev.netlify.app/)
 
 React application that displays users from JSONPlaceholder API with pagination, built with Vite and TypeScript.
 
